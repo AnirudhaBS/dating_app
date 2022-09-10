@@ -7,7 +7,7 @@ body {
     background-color: rgb(93, 130, 131);
     background-size: cover;
     background-image: url("images/DSCN9916.jpg");
-    background: no-repeat;
+    /*background: no-repeat;*/
 }
 form{
     margin-left: 35%;
@@ -54,7 +54,6 @@ div{
 .appdetail:hover,.appdetail:active{
     background-color: cornsilk;
     font-size: 120%;
-}
 }
 .free{
     color: azure;
