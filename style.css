@@ -58,6 +58,7 @@ div{
 .free{
     color: azure;
     margin-left: 40%;
+    touch-action: pan-x;
 }
 .login{
     font-size: large;
